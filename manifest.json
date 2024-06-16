@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Hello Extensions",
+  "description": "Base Level Extension",
+  "version": "1.0",
+  "action": {
+    "default_popup": "hello.html",
+    "default_icon": "Screenshot 2024-06-16 1.09.15 PM"
+  }
+}
